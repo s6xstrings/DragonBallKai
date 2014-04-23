@@ -20,7 +20,7 @@ Style: riwen-top,MS Gothic,40,&H00FFCFC1,&H00000000,&H00000000,&H00000000,-1,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:08.17,0:00:12.85,riwen,NTP,0,0,0,,冷酷で残忍な人造人間たちの攻撃で
-Dialogue: 0,0:00:12.85,0:00:16.07,riwen,NTP,0,0,0,,瀕死の重傷を負ったヤムチャ　　　　　　　
+Dialogue: 0,0:00:12.85,0:00:16.07,riwen,NTP,0,0,0,,瀕死の重傷を負ったヤムチャ
 Dialogue: 0,0:00:16.53,0:00:17.55,riwen,NTP,0,0,0,,そして…
 Dialogue: 0,0:00:21.27,0:00:23.72,riwen,NTP,0,0,0,,やめろ～！
 Dialogue: 0,0:00:27.69,0:00:30.89,riwen,NTP,0,0,0,,付いてこい！２人ともぶっ壊してやる！

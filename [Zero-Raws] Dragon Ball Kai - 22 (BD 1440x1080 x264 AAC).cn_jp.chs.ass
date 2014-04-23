@@ -19,7 +19,7 @@ Style: riwen,MS Gothic,40,&H00FFCFC1,&H00000000,&H00000000,&H00000000,-1,0,0,0,1
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:06.47,0:00:08.70,riwen,NTP,0,0,0,,フリーザの一味を相手に
 Dialogue: 0,0:00:08.83,0:00:12.79,riwen,NTP,0,0,0,,若きナメック星の戦士たちが奮闘
-Dialogue: 0,0:00:13.77,0:00:18.84,riwen,NTP,0,0,0,,機転を利かせた村の長老は一味のスカウターを破壊　　　　　　　
+Dialogue: 0,0:00:13.77,0:00:18.84,riwen,NTP,0,0,0,,機転を利かせた村の長老は一味のスカウターを破壊
 Dialogue: 0,0:00:19.22,0:00:23.37,riwen,NTP,0,0,0,,だが、それは新たなピンチを招いてしまった
 Dialogue: 0,0:00:25.15,0:00:27.31,riwen,NTP,0,0,0,,皆殺しだ～！
 Dialogue: 0,0:02:10.53,0:02:11.28,riwen,NTP,0,0,0,,長老！
